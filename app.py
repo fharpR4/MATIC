@@ -23,3 +23,5 @@ while True:
 
 # Step 8: Thank user for using our app
 print("Thanks for checking in. Goodbye!_ FIFO Team")
+
+#Thanks for coming
